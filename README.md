@@ -1,4 +1,4 @@
-# Viikkotehtava2Kotlin
+# Viikkotehtava3Kotlin
 ---
 
 ## Tämä sovellus käyttää MVVM (Model-View-ViewModel) -mallia, joka jakaa sovelluksen selkeisiin osiin
